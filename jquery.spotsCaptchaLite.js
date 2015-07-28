@@ -1,3 +1,4 @@
+// version 1.0
 (function ($){
     "use strict";
     $.fn.spotsCaptcha = function (){
